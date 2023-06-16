@@ -1,7 +1,8 @@
 body {
     background-color: #D0F5BE;
     }
-    hr {
+
+hr {
         border-style: none;
         border-top-style: dotted;
         border-color: grey;
