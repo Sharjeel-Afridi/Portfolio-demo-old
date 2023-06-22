@@ -1,5 +1,6 @@
 body {
-    background-color: #D0F5BE;
+    background-color: #B0DAFF;
+    font-family:  'Merriweather', serif;
 }
 
 hr {
@@ -16,19 +17,27 @@ hr {
 }
 .image{
     border-radius: 50%;
-}
-.image:hover{
-    background-color: #D0F5BE;
-}
-.circle{
-    background: yellow;
+    background: #FEFF86;
     height: 200px;
     width: 200px;
 }
 h1 {
-    color: #66BFBF
+    color: #146C94;
+    font-family: 'Sacramento', cursive ;
+    font-size: 40px;
 }
-
+td,ul{
+    color: #146C94;
+    font-family: 'Montserrat', sans-serif ;
+}
+th{
+    color: #146C94;
+    font-family: 'Montserrat', sans-serif ;
+    
+}
 h3{
-    color: #66BFBF
+    color: #146C94;
+    font-family: 'Sacramento';
+    font-weight: bold;
+    font-size: 30px;
 }
