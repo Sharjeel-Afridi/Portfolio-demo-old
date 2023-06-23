@@ -14,12 +14,16 @@ hr {
     max-width: 100%;
     max-height: 100% ;
     border-radius: 50%;
+    
 }
 .image{
     border-radius: 50%;
     background: #FEFF86;
     height: 200px;
     width: 200px;
+}
+.image:hover{
+    background: #ffff72;
 }
 h1 {
     color: #146C94;
@@ -33,7 +37,7 @@ td,ul{
 th{
     color: #146C94;
     font-family: 'Montserrat', sans-serif ;
-    
+
 }
 h3{
     color: #146C94;
