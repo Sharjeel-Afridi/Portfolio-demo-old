@@ -10,6 +10,15 @@ hr {
     border-width: 5px;
     width: 10% ;
 }
+a{
+    text-decoration: none;
+    font-weight: bold;
+    transition: letter-spacing 0.3s;
+}
+a:hover{
+    letter-spacing: 5px;
+    
+}
 .Me{
     max-width: 100%;
     max-height: 100% ;
@@ -21,9 +30,10 @@ hr {
     background: #FEFF86;
     height: 200px;
     width: 200px;
+    transition: all 0.3s;
 }
 .image:hover{
-    background: #ffff72;
+    background: yellow;
 }
 h1 {
     color: #146C94;
